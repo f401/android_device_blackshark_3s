@@ -1,5 +1,7 @@
 # Android device tree for blackshark SHARK KLE-A0 (klein)
 
+AOSP License: 
+
 ```
 #
 # Copyright (C) 2023 The Android Open Source Project
