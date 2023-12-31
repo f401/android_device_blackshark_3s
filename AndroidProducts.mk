@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_klein.mk
+    $(LOCAL_DIR)/twrp_klein.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_klein-user \
