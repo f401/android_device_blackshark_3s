@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_klein.mk
+    $(LOCAL_DIR)/aosp_klein.mk
 
 COMMON_LUNCH_CHOICES := \
     aosp_klein-user \
