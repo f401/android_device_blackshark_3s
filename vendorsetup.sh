@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo aosp_klein-user
-add_lunch_combo aosp_klein-userdebug
-add_lunch_combo aosp_klein-eng
+add_lunch_combo twrp_klein-user
+add_lunch_combo twrp_klein-userdebug
+add_lunch_combo twrp_klein-eng

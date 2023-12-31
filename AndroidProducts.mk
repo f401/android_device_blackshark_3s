@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_klein.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_klein-user \
-    aosp_klein-userdebug \
-    aosp_klein-eng
+    twrp_klein-user \
+    twrp_klein-userdebug \
+    twrp_klein-eng
