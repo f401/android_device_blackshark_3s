@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_klein.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_blackshark_klein-user \
-    twrp_blackshark_klein-userdebug \
-    twrp_blackshark_klein-eng
+    twrp_klein-user \
+    twrp_klein-userdebug \
+    twrp_klein-eng
