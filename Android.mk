@@ -7,6 +7,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),blackshark_klein)
+ifeq ($(TARGET_DEVICE),klein)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif
