@@ -7,6 +7,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),klein)
+ifeq ($(TARGET_PRODUCT),twrp_klein)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif
