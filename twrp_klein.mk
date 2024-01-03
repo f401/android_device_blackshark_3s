@@ -13,6 +13,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 
 # Inherit from klein device
 $(call inherit-product, device/blackshark/klein/device.mk)
+$(call inherit-product, vendor/twrp/config/common.mk)
+
+# Inherit from AOSP base config
+$(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
 
 PRODUCT_DEVICE := klein
 PRODUCT_NAME := twrp_klein
